@@ -6,7 +6,6 @@
 }
 header{
 	background-color: white;
-	
 }
 body {
 	background-repeat: no-repeat;
@@ -14,7 +13,6 @@ body {
 	 background-position: left right center buttom;
 	 
 }
-
 .menu{
     display: flex;
     position: sticky;
@@ -49,25 +47,4 @@ body {
     color:rgb(80, 86, 77);
 	background-color: rgb(246, 246, 246);
 	background-size: 200%;
-}
-img{
-         width: 100%;
-        padding: 0px;
-      
-      
-  }
-.title{
-    height:60%;
-    width: auto;
-    font-weight: bolder;
-    text-align: center;
-    font-size: 200%;
-    color: rgb(241, 38, 38);
-
-}
-.quotes{
-    text-align: center;
-    letter-spacing: 10px;
-    font-size: 120%;
-    color: rgb(2, 27, 2);
 }
