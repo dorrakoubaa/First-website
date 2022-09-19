@@ -8,6 +8,22 @@ header{
 	background-color: white;
 	
 }
+.header {
+    width: 70px;
+    height: 70px;
+
+    background: #000000;
+    position: absolue;
+    margin-left: 0px;
+    margin-right: auto;
+
+  }
+
+      .header h1 {
+    position: relative;
+    top: 18px;
+    left: 10px;
+  }
 body {
 	background-repeat: no-repeat;
 	 background-size: 100%;
