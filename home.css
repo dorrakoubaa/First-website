@@ -50,21 +50,11 @@ body {
 	background-color: rgb(246, 246, 246);
 	background-size: 200%;
 }
+
 img{
          width: 100%;
-        padding: 0px;
-      
-      
-  }
-.title{
-    height:60%;
-    width: auto;
-    font-weight: bolder;
-    text-align: center;
-    font-size: 200%;
-    color: rgb(241, 38, 38);
-
-}
+        padding: 0px;     
+    }
 .quotes{
     text-align: center;
     letter-spacing: 10px;
